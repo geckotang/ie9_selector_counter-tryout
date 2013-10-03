@@ -1,0 +1,11 @@
+{
+  "name": "grunt-ie9-selector-counter-tryout",
+  "version": "0.0.0",
+  "description": "",
+  "author": "@geckotang",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-ie9-selector-counter": "0.0.1"
+  },
+  "dependencies": {}
+}
